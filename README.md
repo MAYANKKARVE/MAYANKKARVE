@@ -1,4 +1,4 @@
-:)
+#
 👋 Hi there, I'm Mayank Karve! 
 
 🔭 I’m currently working on various projects related to data science and machine learning, including building predictive models and exploring data visualizations.
@@ -15,5 +15,5 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm an avid traveler and have visited over 20 countries so far. I love exploring new cultures and trying out local cuisines.
--->
+⚡ Fun fact: In my free time, I enjoy playing guitar and learning new songs. I find it a great way to unwind and express my creativity..
+:)
